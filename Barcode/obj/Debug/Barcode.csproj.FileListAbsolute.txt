@@ -1,0 +1,10 @@
+D:\AllWebsite Formate\Barcode\Barcode\bin\Debug\Barcode.exe.config
+D:\AllWebsite Formate\Barcode\Barcode\bin\Debug\Barcode.exe
+D:\AllWebsite Formate\Barcode\Barcode\bin\Debug\Barcode.pdb
+D:\AllWebsite Formate\Barcode\Barcode\obj\Debug\Barcode.csprojResolveAssemblyReference.cache
+D:\AllWebsite Formate\Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+D:\AllWebsite Formate\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+D:\AllWebsite Formate\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
+D:\AllWebsite Formate\Barcode\Barcode\obj\Debug\Barcode.exe
+D:\AllWebsite Formate\Barcode\Barcode\obj\Debug\Barcode.pdb
+D:\AllWebsite Formate\Barcode\Barcode\obj\Debug\Barcode.Form2.resources
